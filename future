@@ -1,0 +1,54 @@
+Name = "Jasawanth"
+Date_of_Birth ="30/12/2008"
+Age = 19
+Height = 5.9
+Is_student = True
+Blood_group = "B+"
+Native_place = "uppalur"
+Weight = 75
+Has_licence = False
+Has_Brother = False
+Has_sister = True
+Sister_Name = "prachuritha"
+Studying = 9 
+Favorite_game = "volley ball"
+Indor_game = "Free fire"
+My_Hobby = "Bike rading"
+Favorite_Food = "ragi sanagti & chicken curry"
+Favorite_bike = "duke"
+My_Favorite_Hero = "My Dad"
+My_Goal = "build a start up company"
+My_suporter = "my Dad"
+my_happiness = "my_mother"
+my_strength = "my_self"
+
+
+
+
+
+
+
+#Displaying the output
+print("Name:",Name)
+print("Date_of_Birth:",Date_of_Birth)
+print("Age:",Age)
+print("Height:",Height)
+print("Is_Student:",Is_student)
+print("Blood_group:",Blood_group)
+print("Native_palce:", Native_place)
+print("Weight:",Weight)
+print("Has_licence:",Has_licence)
+print("Has_brother:", Has_Brother)
+print("Has_sister:",Has_sister)
+print("Sister_Name:",Sister_Name)
+print("Studying:",Studying)
+print("Favorit_game:",Favorite_game)
+print("Indor_game:",Indor_game)
+print("My_Hobby:",My_Hobby)
+print("Favorite_Food:",Favorite_Food)
+print("Favorite_bike:",Favorite_bike)
+print("My_Favorite_Hero:",My_Favorite_Hero)
+print("My_Goal:",My_Goal)
+print("My_suporter:",My_suporter)
+print("My_happiness:",my_happiness)
+print("my_strength:",my_strength)
